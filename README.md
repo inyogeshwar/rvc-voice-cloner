@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/ycyZ3yG0/banner.png" alt="InYogeshwar AI Voice Cloner" width="100%">
+  <img src="https://i.ibb.co/ycyZ3yG0/banner.png" alt="InYogeshwar AI Voice Cloner" width="auto">
 </p>
 # 🔥 InYogeshwar AI Voice Cloner
 
