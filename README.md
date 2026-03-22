@@ -1,6 +1,14 @@
-<p align="center">
-  <img src="https://i.ibb.co/ycyZ3yG0/banner.png" alt="InYogeshwar AI Voice Cloner" width="auto">
-</p>
+<p>&nbsp;👇 Subscribe To My Channel For More AI Updates And Tutorials 👇</p>
+<p><a href="https://www.youtube.com/@in_yogeshwar" target="_blank">@in_yogeshwar</a></p>
+<div class="separator" style="clear: both; text-align: center;">
+  <a href="https://www.youtube.com/@in_yogeshwar" style="margin-left: 1em; margin-right: 1em;">
+    <img border="0" 
+         src="https://i.ibb.co/ycyZ3yG0/banner.png" 
+         width="auto" 
+         max-height="150" 
+         style="max-width:100%; height:auto;">
+  </a>
+</div>
 # 🔥 InYogeshwar AI Voice Cloner
 
 **Clone Any Voice in Seconds** – A one‑click Google Colab notebook for training high‑quality voice conversion models using the **RVC** framework.
