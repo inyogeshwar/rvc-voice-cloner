@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://i.ibb.co/ycyZ3yG0/banner.png" alt="InYogeshwar AI Voice Cloner" width="100%">
+</p>
 # 🔥 InYogeshwar AI Voice Cloner
 
 **Clone Any Voice in Seconds** – A one‑click Google Colab notebook for training high‑quality voice conversion models using the **RVC** framework.
