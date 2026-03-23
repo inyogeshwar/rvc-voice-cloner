@@ -74,7 +74,6 @@ MIT License. Uses the [RVC](https://github.com/RVC-Project/Retrieval-based-Voice
 ## 🙏 Acknowledgements
 
 - [RVC Project](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI)
-- [Bahaa AI](https://www.youtube.com/@BahaaAI)
 - [Google Colab](https://colab.research.google.com/)
 
 ---
