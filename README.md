@@ -13,7 +13,7 @@
 
 **Clone Any Voice in Seconds** – A one‑click Google Colab notebook for training high‑quality voice conversion models using the **RVC** framework.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Tyf6qRxl66CGnkWHTrNFDNykoCNMqpjS?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JhN-UTH08GAUTdl86StlSnu4UsCG6LCX?usp=sharing)
 
 ---
 
